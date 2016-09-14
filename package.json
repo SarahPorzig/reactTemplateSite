@@ -1,0 +1,19 @@
+{
+  "name": "reacttemplatesite",
+  "version": "1.0.0",
+  "description": "practice template site using react ",
+  "main": "src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify -t [ babelify --presets [ react ] ] src.js -o bundle.js"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sarah porzig",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0"
+  }
+}
