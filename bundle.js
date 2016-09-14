@@ -30924,25 +30924,25 @@ class HeaderComponent extends React.Component {
                 React.createElement(
                     'a',
                     { style: headerItemStyle, href: '#' },
-                    'Home'
+                    'netus'
                 ),
                 ' ',
                 React.createElement(
                     'a',
                     { style: headerItemStyle, href: '#' },
-                    'About'
+                    'augue'
                 ),
                 ' ',
                 React.createElement(
                     'a',
                     { style: headerItemStyle, href: '#' },
-                    'Menu'
+                    'morbi'
                 ),
                 ' ',
                 React.createElement(
                     'a',
                     { style: headerItemStyle, href: '#' },
-                    'Shop'
+                    'elit'
                 )
             )
         );

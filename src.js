@@ -74,7 +74,7 @@ class HeaderComponent extends React.Component {
     render () {
         return <div>
             <span style={brandStyle}>Lorem Ipsum</span>
-            <span style={headerStyle}><a style={headerItemStyle} href="#">Home</a> <a style={headerItemStyle} href="#">About</a> <a style={headerItemStyle} href="#">Menu</a> <a style={headerItemStyle} href="#">Shop</a></span>
+            <span style={headerStyle}><a style={headerItemStyle} href="#">netus</a> <a style={headerItemStyle} href="#">augue</a> <a style={headerItemStyle} href="#">morbi</a> <a style={headerItemStyle} href="#">elit</a></span>
             </div>;
     }
 }
